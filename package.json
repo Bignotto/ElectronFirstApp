@@ -1,0 +1,24 @@
+{
+  "name": "electronfirstapp",
+  "version": "1.0.0",
+  "description": "Electron JS First App",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bignotto/ElectronFirstApp.git"
+  },
+  "author": "Thiago Bignotto",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Bignotto/ElectronFirstApp/issues"
+  },
+  "homepage": "https://github.com/Bignotto/ElectronFirstApp#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "electron": "^7.1.7"
+  }
+}
